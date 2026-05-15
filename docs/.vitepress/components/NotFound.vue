@@ -8,7 +8,7 @@
 			<blockquote class="quote">
 				{{ theme.notFound?.quote }}
 			</blockquote>
-			<VPButton :href="withBase(theme.notFound?.link)" :text="theme.notFound?.linkText" theme="sponsor" />
+			<VPButton :href="theme.notFound?.link" :text="theme.notFound?.linkText" theme="sponsor" />
 		</div>
 	</div>
 </template>
