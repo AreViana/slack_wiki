@@ -4,8 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
 	title: "Slack Wiki",
 	description: "Aprende sobre el mundo del slackline!",
+	base: '/slack_wiki/',
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
+		logo: '/assets/feed-your-ideas.png',
 		nav: [
 			{ text: 'Inicio', link: '/' },
 			{ text: 'Conocenos', link: '/nosotras' }
