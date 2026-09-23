@@ -3,6 +3,8 @@
 # Welcome
 This project was created with the purpose of sharing the knowledge gathered in the study group of girls from the Latin American slackline community.
 
+[Slack Wiki Github Page](https://areviana.github.io/slack_wiki) 💜
+
 ## ⚡ Project Stack
 - Vitepress
 - Typescript
