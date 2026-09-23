@@ -40,7 +40,19 @@ Un círculo de estudio es un espacio colectivo donde un grupo de personas se re�
 
 ## Nuestro Objetivo
 
-Escribir aqui un objetivo.
+Promover el conocimiento en un espacio seguro a través de la participación activa de los miembros de esta comunidad.
+
+## Valores
+
+- **Pasión y amor:** La motivación que impulsa la práctica.
+- **Socializar y compartir:** El slack como espacio de encuentro y comunidad, especialmente desde la experiencia de ser mujer.
+- **Seguridad y formación:** Necesidad de cuidarnos, dar confianza y seguir aprendiendo.
+- **Espacio seguro:** Crear un lugar de confianza para expresar dudas y aprendizajes.
+- **Fortalecimiento:** El slack como herramienta para crecer y empoderarse.
+- **Crear lazos y reconectar:** Fortalecer vínculos y compartir sentipensares.
+- **Aprender:** Reconocer el interés por seguir profundizando.
+- **Intermitencia:** Considerar que la práctica no siempre es constante.
+- **Relación con otras temáticas:** Conexión con lo social, cultural, espiritual y comunitario.
 
 ## Comunidad
 
