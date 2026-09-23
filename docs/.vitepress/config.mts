@@ -20,7 +20,8 @@ export default defineConfig({
 					{ text: 'Glosario', link: '/glosario' },
 					{ text: 'Recursos', link: '/recursos' }
 				]
-			}
+			},
+			{ text: 'Charlas', link: '/charlas' }
 		],
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/areviana/slack_wiki' },

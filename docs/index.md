@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Wiki
       link: /glosario.html
+    - theme: brand
+      text: Charlas
+      link: /charlas.html
 
 features:
   - title: Cuidado
